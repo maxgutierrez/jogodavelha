@@ -1,0 +1,24 @@
+#mostrador{
+	margin: auto;
+	margin-top: 40px;
+	width: 252px;
+	height: 80px;
+}
+
+.espaco{
+	
+	width: 80px;
+	height: 80px;
+	border: 2px solid black;
+	float: left;
+	
+}
+
+#tabuleiro{
+	margin: auto ;
+	width:252px; /* a largura mais a borda de 3 quadrados */
+}
+img{
+	height: 50px;
+	margin: 15px;
+}
